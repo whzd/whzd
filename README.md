@@ -6,9 +6,9 @@
 <h3 align='left'>
 About me:
 </h3>
-
-- 👀 I’m interested in improving my skills, through pratice and collaboration.
-- 🌱 I’m currently learning the ins and outs of Python.
+- 💻 I'm working as Junior Infrastructure Enginner at Farfetch.
+- 👀 I’m interested in improving my skills, through practice and collaboration.
+- 🌱 I’m currently learning the ins and outs of Python, in my free time.
 - 💞️ I’m looking to collaborate on interesting and challenging projects.
 - 📫 How to reach me:
 
