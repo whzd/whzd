@@ -7,7 +7,7 @@
 About me:
 </h3>
 
-- 💻 I'm working as an Infrastructure Enginner at Farfetch.
+- 💻 I'm working as a Platform Enginner at Bandorasystems.
 - 👀 I’m interested in improving my skills, through practice and collaboration.
 - 🌱 I’m currently learning Rust, in my free time.
 - 💞️ I’m looking to collaborate on interesting and challenging projects.
